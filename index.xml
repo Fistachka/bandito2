@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>bandito2</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="Fistachka" repo="parus"/>
   <readme>
     <ru>39ed9840202e823f0a380e4bb6a2d28d1e4027c3e435519ea02b8b5c8794f4dc</ru>
@@ -88,14 +88,14 @@
     <tonalities>3</tonalities>
     <video name="13t.mp4" size="1211624" type="video/mp4" volume="0.5">d25483b4ef6b0ea7a95c4397781947988b9fa344ffedea79abf7c5fb989cd73a</video>
     <notes>
-      <note number="1" values="38" ticks="108" durationTicks="32" ppq="96" velocity="0.819"/>
-      <note number="2" values="38" ticks="156" durationTicks="34" ppq="96" velocity="0.772"/>
-      <note number="3" values="38" ticks="205" durationTicks="69" ppq="96" velocity="0.827"/>
-      <note number="4" values="38" ticks="299" durationTicks="94" ppq="96" velocity="0.772"/>
-      <note number="5" values="48" ticks="396" durationTicks="92" ppq="96" velocity="0.827"/>
-      <note number="6" values="38" ticks="492" durationTicks="74" ppq="96" velocity="0.78"/>
-      <note number="7" values="38" ticks="589" durationTicks="90" ppq="96" velocity="0.827"/>
-      <note number="8" values="6" ticks="683" durationTicks="91" ppq="96" velocity="0.756"/>
+      <note number="1" values="38" ticks="112" durationTicks="32" ppq="96" velocity="0.819"/>
+      <note number="2" values="38" ticks="159" durationTicks="34" ppq="96" velocity="0.772"/>
+      <note number="3" values="38" ticks="212" durationTicks="69" ppq="96" velocity="0.827"/>
+      <note number="4" values="38" ticks="315" durationTicks="94" ppq="96" velocity="0.772"/>
+      <note number="5" values="48" ticks="412" durationTicks="92" ppq="96" velocity="0.827"/>
+      <note number="6" values="38" ticks="508" durationTicks="74" ppq="96" velocity="0.78"/>
+      <note number="7" values="38" ticks="605" durationTicks="53" ppq="96" velocity="0.827"/>
+      <note number="8" values="6" ticks="666" durationTicks="91" ppq="96" velocity="0.756"/>
     </notes>
   </exercise>
   <exercise number="6">
