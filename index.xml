@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>bandito2</repo>
-  <version>v1.0.13</version>
+  <version>v1.0.14</version>
   <next number="1" owner="Fistachka" repo="olen4"/>
   <readme>
     <ru>39ed9840202e823f0a380e4bb6a2d28d1e4027c3e435519ea02b8b5c8794f4dc</ru>
@@ -179,8 +179,8 @@
       <note number="2" values="6" ticks="128" durationTicks="47" ppq="96" velocity="0.772"/>
       <note number="3" values="7" ticks="176" durationTicks="44" ppq="96" velocity="0.827"/>
       <note number="4" values="18" ticks="225" durationTicks="44" ppq="96" velocity="0.772"/>
-      <note number="5" values="28" ticks="294" durationTicks="36" ppq="96" velocity="0.827"/>
-      <note number="6" values="38" ticks="332" durationTicks="34" ppq="96" velocity="0.78"/>
+      <note number="5" values="28" ticks="274" durationTicks="36" ppq="96" velocity="0.827"/>
+      <note number="6" values="38" ticks="320" durationTicks="34" ppq="96" velocity="0.78"/>
       <note number="7" values="28" ticks="368" durationTicks="94" ppq="96" velocity="0.827"/>
       <note number="8" values="18" ticks="464" durationTicks="94" ppq="96" velocity="0.756"/>
     </notes>
@@ -194,8 +194,8 @@
     <notes>
       <note number="1" values="18" ticks="314" durationTicks="48" ppq="96" velocity="0.819"/>
       <note number="2" values="6" ticks="362" durationTicks="47" ppq="96" velocity="0.772"/>
-      <note number="3" values="18" ticks="411" durationTicks="30" ppq="96" velocity="0.827"/>
-      <note number="4" values="18" ticks="459" durationTicks="95" ppq="96" velocity="0.772"/>
+      <note number="3" values="18" ticks="411" durationTicks="73" ppq="96" velocity="0.827"/>
+      <note number="4" values="18" ticks="505" durationTicks="95" ppq="96" velocity="0.772"/>
       <note number="5" values="18" ticks="674" durationTicks="48" ppq="96" velocity="0.827"/>
       <note number="6" values="6" ticks="723" durationTicks="47" ppq="96" velocity="0.74"/>
       <note number="7" values="18" ticks="773" durationTicks="46" ppq="96" velocity="0.78"/>
