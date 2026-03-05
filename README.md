@@ -7,9 +7,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzyCIM9U_Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Мы бандито, знаменито, мы стрелято пистолето, о йес,
-Мы фиато разъезжанто целый день в кабриолето, о йес,
+Мы фиато разъезжато целый день в кабриолето, о йес,
 Постоянно пьем чинзано, постоянно сыто-пьяно, о йес,
-Держим банко миллионо и плеванто на законо, о йес.
+Держим банко миллионо и плеванто на законо
+Держим банко миллионо и плеванто на законо
+Держим банко миллионо и плеванто на законо.
 
 Предыдущий урок:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/aacc58da-3562-456d-bf4c-3e7acab111d7 =200x200)
@@ -24,9 +26,11 @@ stolbitsa.com/fistachka/bandito<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-GQ_ENCXogw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 My bandito, znamenito, my strelyato pistoleto, o jes,
-My fiato raz"ezzhanto celyj den' v kabrioleto, o jes,
+My fiato raz"ezzhato celyj den' v kabrioleto, o jes,
 Postoyanno p'em chinzano, postoyanno syto-p'yano, o jes,
-Derzhim banko milliono i plevanto na zakono, o jes.
+Derzhim banko milliono i plevanto na zakono
+Derzhim banko milliono i plevanto na zakono
+Derzhim banko milliono i plevanto na zakono
 
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/aacc58da-3562-456d-bf4c-3e7acab111d7 =200x200)
