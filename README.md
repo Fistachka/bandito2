@@ -4,7 +4,7 @@
 ![3б](https://github.com/user-attachments/assets/50d7c662-71ec-4a2c-af21-1391caa85ce9)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/iYr3Vs9MtPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzyCIM9U_Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Мы бандито, знаменито, мы стрелято пистолето, о йес,
 Мы фиато разъезжато целый день в кабриолето, о йес,
@@ -23,7 +23,7 @@ stolbitsa.com/fistachka/bandito<br><br>
 ![3б](https://github.com/user-attachments/assets/50d7c662-71ec-4a2c-af21-1391caa85ce9)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/AgKGt8-qMC0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-GQ_ENCXogw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 My bandito, znamenito, my strelyato pistoleto, o jes,
 My fiato raz"ezzhato celyj den' v kabrioleto, o jes,
